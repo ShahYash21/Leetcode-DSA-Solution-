@@ -8,3 +8,6 @@ class Solution:
             s[left] , s[right] = s[right] ,s[left]
             left+=1
             right-=1
+            """also we can do it like in one line
+                s[:] = s[::-1]
+            """
