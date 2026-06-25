@@ -44,4 +44,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
