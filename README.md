@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0283-move-zeroes) |
 | [1528-shuffle-string](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/1528-shuffle-string) |
 ## Dynamic Programming
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0344-reverse-string) |
 ## String
 |  |
