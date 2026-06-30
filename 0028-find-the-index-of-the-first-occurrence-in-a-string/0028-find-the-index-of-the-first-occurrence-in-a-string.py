@@ -10,4 +10,6 @@ class Solution:
                 return i
 
         return -1
+        '''simpler approch would be using .find() method 
+just simple return haystack.find(needle)'''
         
