@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0349-intersection-of-two-arrays) |
 | [1528-shuffle-string](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/1528-shuffle-string) |
 ## Dynamic Programming
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -98,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
