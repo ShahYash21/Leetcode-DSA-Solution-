@@ -8,4 +8,5 @@ class Solution:
                 ans.add(num)
 
         return list(ans)
-        
+        '''we can use one simple line to solve this problem 
+        return list(set(nums1) & set(nums2))'''
