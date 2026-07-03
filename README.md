@@ -85,12 +85,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
