@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0496-next-greater-element-i) |
 | [1528-shuffle-string](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/1528-shuffle-string) |
 ## Dynamic Programming
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0383-ransom-note) |
+| [0496-next-greater-element-i](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0496-next-greater-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -122,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0206-reverse-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
