@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0217-contains-duplicate) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/1137-n-th-tribonacci-number) |
