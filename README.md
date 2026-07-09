@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0053-maximum-subarray) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ShahYash21/Leetcode-DSA-Solution-/tree/master/0141-linked-list-cycle) |
