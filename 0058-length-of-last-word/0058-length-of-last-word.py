@@ -11,4 +11,6 @@ class Solution:
             i -= 1
 
         return length
+        ''' alerternative way and short to solve this:
+        return len(s.strip().split()[-1])'''
         
